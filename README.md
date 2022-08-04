@@ -2,9 +2,11 @@
 
 A template to make a placeholder for an upcoming site/project. It has no dependencies and can be deployed to static hosting.
 
+![Example Screenshot](https://raw.githubusercontent.com/spacenectar/site-placeholder/f2eabc2fb56097ae9908f1aa4e253c29e536f953/screenshot.png)
+
 ## Getting started
 
-This is an incredibly basic project. So getting started is as simple as opening globals.json and adding your own data and replacing the logo, bg and favion files.
+This is an incredibly basic project. So getting started is as simple as opening `globals.json` and adding your own data and replacing the logo, bg and favion files.
 
 Done.
 
