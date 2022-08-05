@@ -25,4 +25,3 @@ Once you have cloned a copy of the repo down, you are free to customise anything
 | logoPath | The path to your logo file | true | './logo.svg' |
 | backgroundPath | The path to your background image | false | './bg.jpg' |
 | titleColour | The colour you wish to use as the title text | false | '#bdbdbd' |
-| footerCopy | The copy to use in the footer of the site | false | Copyright notice |

@@ -4,8 +4,7 @@
 
     document.getElementsByTagName('title')[0].innerHTML = `COMING SOON | ${globals.name}`;
     document.getElementById('data-loading').style.display = 'none';
-    document.getElementById('data-footer').innerHTML = `<p>${globals.footerCopy || `Copyright &copy; ${new Date().getFullYear()} - ${globals.name}. &nbsp;All rights reserved`}</p>`;
-    
+        
     const h1 = document.getElementById('data-app-name')
     h1.innerHTML = globals.name;
     h1.style.color = globals.titleColour || '#bdbdbd';

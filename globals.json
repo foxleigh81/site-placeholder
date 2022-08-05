@@ -3,6 +3,5 @@
     "description": "The future home of the Space Nectar website",
     "logoPath": "./logo.svg",
     "backgroundPath": "./bg.jpg",
-    "titleColour": "#663399",
-    "footerCopy": "Copyright © 2022 Foxleigh &amp; Foxleigh Limited (UK) Ltd. All rights reserved."
+    "titleColour": "#663399"
 }
